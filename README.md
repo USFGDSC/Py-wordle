@@ -6,7 +6,7 @@ Built a CLI wordle game in python
 
 ## ScreenShots
 <p align=center>
-  <img src="https://github.com/USFGDSC/Py-wordle/assets/98829238/97d50180-804f-4e91-abc0-c618a56f9447" width=700px height=500px />
+  <img src="https://github.com/USFGDSC/Py-wordle/assets/98829238/bbe21ae1-e793-4a52-9a39-fd9b68891167" width=700px height=500px />
 </p> 
 
 ## Technologies used:
