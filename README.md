@@ -2,7 +2,8 @@
 GDSC's Fall 23's First Workshop Project to learn Python
 
 ## Description
-Built a CLI wordle game in python
+CLI wordle game in python.
+Each branch has a different model of the game, such as adding colors.
 
 ## ScreenShots
 <p align=center>
