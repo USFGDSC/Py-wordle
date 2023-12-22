@@ -1,0 +1,22 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2023-12-21T23:59:42-05:00",
+  "id": "Py-Wordle",
+  "duration": 15,
+  "title": "The Py-Wordle Workshop",
+  "summary": "",
+  "source": "test.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": null,
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/USFGDSC/Py-wordle/blob/main/README.md",
+  "url": "Py-Wordle"
+}
